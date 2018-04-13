@@ -20,17 +20,17 @@ Sachin Baby 0
 T Natarajan 0
 Tanmay Agarwal 0
 Basil Thampi 0
-Chris Woakes 134
-AB de Villiers 122
-Brendon McCullum 102
-Umesh Yadav 84
-Mandeep Singh 80
-Virat Kohli 44
-Washington Sundar 29
-Quinton de Kock 21
-Kulwant Khejroliya 18
-Yuzvendra Chahal 13
-Sarfaraz Khan 2
+Umesh Yadav 247
+AB de Villiers 232
+Chris Woakes 195
+Quinton de Kock 139
+Washington Sundar 131
+Mandeep Singh 107
+Virat Kohli 93
+Kulwant Khejroliya 91
+Brendon McCullum 91
+Yuzvendra Chahal 54
+Sarfaraz Khan 21
 Colin de Grandhomme 0
 Aniket Choudhary 0
 Corey Anderson 0
@@ -90,27 +90,27 @@ Karn Sharma 0
 Chaitanya Bishnoi 0
 Dhruv Shorey 0
 Faf du Plessis 0
-Lokesh Rahul 170
-Karun Nair 103
-Mujeeb Ur Rahman 89
+Lokesh Rahul 270
+Ravichandran Ashwin 197
+Karun Nair 181
+Mujeeb Ur Rahman 147
+Axar Patel 103
+Andrew Tye 92
 Mohit Sharma 70
-Ravichandran Ashwin 54
-Axar Patel 44
-Marcus Stoinis 38
-Andrew Tye 32
+Marcus Stoinis 54
+Mayank Agarwal 37
 David Miller 27
-Mayank Agarwal 12
-Yuvraj Singh 6
-Aaron Finch 0
+Yuvraj Singh 12
+Mayank Dagar 10
 Pardeep Sahu 0
 Ben Dwarshuis 0
 Chris Gayle 0
 Ankit Rajpoot 0
-Mayank Dagar 0
-Manoj Tiwary 0
 Manzoor Dar 0
-Akshdeep Nath 0
 Barinder Sran 0
+Akshdeep Nath 0
+Manoj Tiwary 0
+Aaron Finch -11
 Mayank Markande 308
 Mustafizur Rahman 204
 Hardik Pandya 164
