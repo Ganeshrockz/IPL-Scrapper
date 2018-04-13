@@ -35,7 +35,7 @@ while i:
 i=0
 
 while i<len(playerList):
-	print(playerList[i]+" "+pointList[i])
+	print(str(i)+" "+playerList[i]+" "+pointList[i])
 	i=i+1
 
 print(len(playerList))
