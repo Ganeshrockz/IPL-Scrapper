@@ -1,15 +1,15 @@
-﻿Siddarth Kaul 156
-Yusuf Pathan 58
-Quinton de Kock 139
+﻿Siddarth Kaul 526
+Yusuf Pathan 318
+Quinton de Kock 499
 Parthiv Patel 0
 Vinay Kumar 80
-Shivam Mavi 15
-Harbhajan Singh 84
-Suresh Raina 46
+Shivam Mavi 204
+Harbhajan Singh 233
+Suresh Raina 442
 Lungisani Ngidi 0
-Mohit Sharma 70
-David Miller 27
-Aaron Finch -11
-Jasprit Bumrah 151
+Mohit Sharma 155
+David Miller 75
+Aaron Finch 65
+Jasprit Bumrah 504
 Pat Cummins 0
-Vijay Shankar 41
+Vijay Shankar 251

@@ -1,15 +1,15 @@
-﻿Manish Pandey 31
-Sandeep Sharma 74
-Basil Thampi 0
-Tom Curran 49
-Shubman Gill 0
-Dwayne Bravo 234
-Faf du Plessis 0
+﻿Manish Pandey 324
+Sandeep Sharma 305
+Basil Thampi 200
+Tom Curran 150
+Shubman Gill 129
+Dwayne Bravo 582
+Faf du Plessis 63
 Marcus Stoinis 54
-Manoj Tiwary 0
-Barinder Sran 0
-Ishan Kishan 125
+Manoj Tiwary 14
+Barinder Sran 192
+Ishan Kishan 372
 Saurabh Tiwary 0
-Amit Mishra 6
-Colin Munro -8
-Ben Cutting 23
+Amit Mishra 217
+Colin Munro 141
+Ben Cutting 90
