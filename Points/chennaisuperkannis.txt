@@ -1,15 +1,15 @@
-﻿Alex Hales 84
+﻿Alex Hales 168
 Ricky Bhui -15
-AB de Villiers 674
-Brendon McCullum 242
+AB de Villiers 672
+Brendon McCullum 251
 Washington Sundar 301
-Colin de Grandhomme 111
-Shardul Thakur 344
-Karun Nair 437
+Colin de Grandhomme 189
+Shardul Thakur 369
+Karun Nair 553
 Akshdeep Nath 0
-Shreyas Gopal 329
-Arcy Short 246
+Shreyas Gopal 382
+Arcy Short 263
 Ankit Sharma 0
 Rahul Tewatia 407
-Trent Boult 596
-Shreyas Iyer 707
+Trent Boult 622
+Shreyas Iyer 781
