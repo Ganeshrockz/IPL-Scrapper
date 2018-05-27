@@ -1,15 +1,15 @@
-﻿Ravindra Jadeja 572
-Shane Watson 1017
-Dinesh Karthik 699
-Suryakumar Yadav 842
-Rahul Tripathi 184
-Umesh Yadav 626
+﻿Ravindra Jadeja 903
+Shane Watson 1516
+Dinesh Karthik 1215
+Suryakumar Yadav 1115
+Rahul Tripathi 445
+Umesh Yadav 1034
 Naman Ojha -2
-Sarfaraz Khan 27
+Sarfaraz Khan 98
 Corey Anderson 95
-Shahbaz Nadeem 131
+Shahbaz Nadeem 135
 Bipul Sharma 0
-Ravichandran Ashwin 521
-Shakib Al Hasan 649
-Sam Billings 240
-Heinrich Klaasen 13
+Ravichandran Ashwin 772
+Shakib Al Hasan 1109
+Sam Billings 289
+Heinrich Klaasen 165

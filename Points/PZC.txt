@@ -1,15 +1,15 @@
-﻿Rashid Khan 763
-Yuzvendra Chahal 424
-Robin Uthappa 536
+﻿Rashid Khan 1476
+Yuzvendra Chahal 706
+Robin Uthappa 715
 Ishank Jaggi 0
 KM Asif 88
-Deepak Chahar 314
-Mujeeb Ur Rahman 643
-Krunal Pandya 855
-Kieron Pollard 149
-Ben Stokes 484
+Deepak Chahar 687
+Mujeeb Ur Rahman 732
+Krunal Pandya 1156
+Kieron Pollard 287
+Ben Stokes 843
 Gautam Gambhir 136
-Rishabh Pant 921
-Jason Roy 267
-Prithvi Shaw 443
-Chris Gayle 697
+Rishabh Pant 1566
+Jason Roy 300
+Prithvi Shaw 524
+Chris Gayle 795
